@@ -808,6 +808,10 @@ hr {
     color: #358e21;
     background: #b4c465; 
     font-size: 30px; }
+  .tile.tile-85 .tile-inner {
+    color: #e0637c;
+    background: #6e1631; 
+    font-size: 30px; }
 
 @-webkit-keyframes appear {
   0% {
