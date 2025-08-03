@@ -812,6 +812,14 @@ hr {
     color: #e0637c;
     background: #6e1631; 
     font-size: 30px; }
+  .tile.tile--21 .tile-inner {
+    color: #ff4f12;
+    background: #ff4f12; 
+    border-radius: 25px; }
+  .tile.tile--50 .tile-inner {
+    color: #b290de;
+    background: #b290de; 
+    border-radius: 25px; }
 
 @-webkit-keyframes appear {
   0% {
